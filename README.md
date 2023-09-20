@@ -1,5 +1,5 @@
 # Broken Pencil
-http://broken--pencil.herokuapp.com/
+~~http://broken--pencil.herokuapp.com/~~ Site is down as of November 28, 2022 due to the removal of Heroku's free tier
 
 This web app is a remake of the popular board game "Telestrations".
 
